@@ -4,7 +4,9 @@ Copyright and Licensing
 This project is provided for demonstration purposes only and is not intended for commercial use, modification, or redistribution without explicit written consent from the author. All intellectual property rights remain with the author
 
 Prerequisites
+
 googlecolab
+
 Jupyter
 
 Automated-Retail-Spending-Prediction
