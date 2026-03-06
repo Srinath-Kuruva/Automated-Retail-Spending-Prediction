@@ -1,4 +1,13 @@
-# Automated-Retail-Spending-Prediction
+Copyright and Licensing
+© [2026] [Srinath Kuruva]. All rights reserved.
+
+This project is provided for demonstration purposes only and is not intended for commercial use, modification, or redistribution without explicit written consent from the author. All intellectual property rights remain with the author
+
+Prerequisites
+googlecolab
+Jupyter
+
+Automated-Retail-Spending-Prediction
 Entwicklung eines Modells zur Prognose von Kundenausgaben über einem Schwellenwert mittels historischer Daten, Automated Feature Engineering und Time Series Filtering
 
 Overview
